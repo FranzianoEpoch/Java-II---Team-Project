@@ -1,11 +1,58 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="blTooV33y9owfn-DKTUU">
-    <mxGraphModel dx="1313" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1204" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DSiKZJTLquvaGU5pnChf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="kTKyraXuxHbkKlh1tKVR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kTKyraXuxHbkKlh1tKVR-1" target="kTKyraXuxHbkKlh1tKVR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kTKyraXuxHbkKlh1tKVR-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="20" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kTKyraXuxHbkKlh1tKVR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kTKyraXuxHbkKlh1tKVR-9" target="kTKyraXuxHbkKlh1tKVR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kTKyraXuxHbkKlh1tKVR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kTKyraXuxHbkKlh1tKVR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374.82608695652175" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kTKyraXuxHbkKlh1tKVR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kTKyraXuxHbkKlh1tKVR-2" target="kTKyraXuxHbkKlh1tKVR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kTKyraXuxHbkKlh1tKVR-2" value="Index Page&lt;div&gt;(Main Navigation Page)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="110" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kTKyraXuxHbkKlh1tKVR-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kTKyraXuxHbkKlh1tKVR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kTKyraXuxHbkKlh1tKVR-8" target="kTKyraXuxHbkKlh1tKVR-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kTKyraXuxHbkKlh1tKVR-8" value="Products Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kTKyraXuxHbkKlh1tKVR-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kTKyraXuxHbkKlh1tKVR-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kTKyraXuxHbkKlh1tKVR-15" target="kTKyraXuxHbkKlh1tKVR-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-70" y="340" as="sourcePoint" />
+            <mxPoint x="-50" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kTKyraXuxHbkKlh1tKVR-15" value="Actions" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kTKyraXuxHbkKlh1tKVR-19" value="&lt;ul&gt;&lt;li&gt;Input Code, Description &amp;amp; Price&lt;/li&gt;&lt;li&gt;Update Product&lt;/li&gt;&lt;li&gt;Validation of Product&lt;/li&gt;&lt;li&gt;Save Product&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="270" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kTKyraXuxHbkKlh1tKVR-23" value="ADD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
